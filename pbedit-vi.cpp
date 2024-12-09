@@ -682,7 +682,7 @@ void TextEditor::handleNormalModeInput(int ch) {
     repeatCount = 0;
 
     for (int i = 0; i < iterations; ++i) {
-        switch(ch) {d
+        switch(ch) {
             case 'i': 
                 mode = EditorMode::INSERT;
                 break;
