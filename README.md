@@ -1,4 +1,4 @@
-# ddezedit
+# ddezedit /  pbedit
 text editor written in c++ and ncurses
 # versions
 there exist multiple versions of this program. These include : 
