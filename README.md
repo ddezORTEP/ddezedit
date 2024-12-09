@@ -1,5 +1,7 @@
 # ddezedit /  pbedit
 text editor written in c++ and ncurses
+
+![screenshot](PBedit.png)
 # versions
 there exist multiple versions of this program. These include : 
 - version with vi-like commands (linux only)
